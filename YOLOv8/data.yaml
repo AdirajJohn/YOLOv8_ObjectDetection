@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOv8/data/train/images
+val: /content/drive/MyDrive/YOLOv8/data/valid/images
+
+nc: 1
+names: ["crop"]

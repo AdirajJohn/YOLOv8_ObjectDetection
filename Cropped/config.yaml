@@ -1,0 +1,8 @@
+path: D:\repository\Crop_image_openCV
+train: images\train
+val: images\val
+test: images\test
+
+#classes
+names:
+    0: "crop"
