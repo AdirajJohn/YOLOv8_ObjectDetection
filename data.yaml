@@ -1,0 +1,6 @@
+train: D:/repository/YOLOv8_ObjectDetection/YOLOv8/data/train/images
+val: D:/repository/YOLOv8_ObjectDetection/YOLOv8/data/valid/images
+test: D:/repository/YOLOv8_ObjectDetection/YOLOv8/data/test/images
+
+nc: 1
+names: ["crop"]
